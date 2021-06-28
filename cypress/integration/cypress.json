@@ -1,0 +1,7 @@
+{
+    "baseUrl": "https://dev1775-prestamosimple-fenix.mybluemix.net",
+    "video": false,
+    "viewportHeight":844,
+    "viewportWidth": 1366,
+    "responseTimeout": 40000
+}

@@ -1,0 +1,16 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "cypress automation",
+  "main": "actions.spec.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cypress",
+    "e2e",
+    "antomation"
+  ],
+  "author": "Mateo",
+  "license": "ISC"
+}

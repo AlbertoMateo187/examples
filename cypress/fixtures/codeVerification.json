@@ -1,0 +1,10 @@
+{
+    "title": "Solicitud exitosa",
+    "descripcionError": "",
+    "message": "Solicitud exitosa",
+    "level": "success",
+    "levelMonte": "success",
+    "status": 200,
+    "tipoError": "",
+    "codigoError": ""
+}  
